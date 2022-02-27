@@ -1,0 +1,8 @@
+eita
+teste
+vamos
+testar
+olha
+só
+o
+testeEscrevi no arquivo usando append, por isso ele n sofreu overwrite
